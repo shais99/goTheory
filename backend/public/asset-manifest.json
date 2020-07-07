@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.53fef45c.chunk.css",
+    "main.js": "/static/js/main.e0a3238c.chunk.js",
+    "main.js.map": "/static/js/main.e0a3238c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fc75219d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fc75219d.js.map",
+    "static/js/2.cb085ff3.chunk.js": "/static/js/2.cb085ff3.chunk.js",
+    "static/js/2.cb085ff3.chunk.js.map": "/static/js/2.cb085ff3.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c4de2c912403dfa0ee1712f680b79fd4.js": "/precache-manifest.c4de2c912403dfa0ee1712f680b79fd4.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.53fef45c.chunk.css.map": "/static/css/main.53fef45c.chunk.css.map",
+    "static/js/2.cb085ff3.chunk.js.LICENSE.txt": "/static/js/2.cb085ff3.chunk.js.LICENSE.txt",
+    "static/media/global.scss": "/static/media/study-material-bg.56d4c6a2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc75219d.js",
+    "static/js/2.cb085ff3.chunk.js",
+    "static/css/main.53fef45c.chunk.css",
+    "static/js/main.e0a3238c.chunk.js"
+  ]
+}

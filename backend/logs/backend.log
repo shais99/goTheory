@@ -1,0 +1,25 @@
+Tue, 07 Jul 2020 08:00:38 GMT - Info - Server is running on port: 3030
+Tue, 07 Jul 2020 08:00:42 GMT - Info - Server is running on port: 3030
+Tue, 07 Jul 2020 08:01:09 GMT - Info - Server is running on port: 3030
+Tue, 07 Jul 2020 08:01:14 GMT - Info - Server is running on port: 3030
+Tue, 07 Jul 2020 08:01:43 GMT - Info - Server is running on port: 3030
+Tue, 07 Jul 2020 08:18:47 GMT - Debug - auth.service - login with username: undefined
+Tue, 07 Jul 2020 08:19:39 GMT - Debug - auth.service - login with username: asdasdasd
+Tue, 07 Jul 2020 08:20:01 GMT - Debug - asdasd, asdasd, undefined
+Tue, 07 Jul 2020 08:20:01 GMT - Debug - auth.service - signup with username: asdasd
+Tue, 07 Jul 2020 08:20:01 GMT - Error - [SIGNUP] username, password and fullname are required
+Tue, 07 Jul 2020 08:20:10 GMT - Debug - auth.service - login with username: asdasdasd
+Tue, 07 Jul 2020 08:21:41 GMT - Debug - auth.service - login with username: asasdsad
+Tue, 07 Jul 2020 08:22:18 GMT - Debug - auth.service - login with username: asdsaddsa
+Tue, 07 Jul 2020 08:22:28 GMT - Debug - auth.service - login with username: dsasaddsa
+Tue, 07 Jul 2020 08:24:27 GMT - Debug - auth.service - login with username: as
+Tue, 07 Jul 2020 08:25:08 GMT - Debug - auth.service - login with username: asdads
+Tue, 07 Jul 2020 08:25:25 GMT - Debug - auth.service - login with username: asasd
+Tue, 07 Jul 2020 08:25:30 GMT - Debug - auth.service - login with username: shais99
+Tue, 07 Jul 2020 08:25:48 GMT - Debug - auth.service - login with username: shais99
+Tue, 07 Jul 2020 08:26:05 GMT - Debug - auth.service - login with username: shais99
+Tue, 07 Jul 2020 08:26:45 GMT - Debug - auth.service - login with username: shais99
+Tue, 07 Jul 2020 09:18:12 GMT - Debug - auth.service - login with username: shais99
+Tue, 07 Jul 2020 09:24:31 GMT - Debug - auth.service - login with username: shais99
+Tue, 07 Jul 2020 11:04:13 GMT - Debug - auth.service - login with username: shais99
+Tue, 07 Jul 2020 12:18:47 GMT - Info - Server is running on port: 3030
