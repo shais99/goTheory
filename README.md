@@ -6,7 +6,7 @@ Used government API to develop a site that allows taking practice theory tests.<
 Developed multiple frontend components, designed the RESTful API,<br />
 implemented the entire backend and developed the database.
 
-[Try It Now](http://go-theory.herokuapp.com/)
+[Try It Now](http://go-theory.herokuapp.com/)<br />
 [Checkout my LinkedIn profile](https://www.linkedin.com/in/shai-sharakanski-7812b11a6/)
 
 #### Technological stack:
